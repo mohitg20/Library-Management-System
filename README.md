@@ -1,11 +1,13 @@
 # Library-Management-System
 
 ## To run the program:
--  Download the library.cpp file
--  Enter     ``` g++ library.cpp && ./a.out ```   in the terminal inside the directory containing library.cpp file
+-  Download the **library.cpp** file
+-  Enter     ``` g++ library.cpp && ./a.out ```   in the terminal inside the directory containing **library.cpp** file
 
 ## Note: 
--  The code don't have a prebuilt database so you need to do Librarian Login first before and add books, students and professors details before accessing the 
+-  The code don't have a prebuilt database so you need to do Librarian Login first before and add books, students and professors details before accessing the Student and Professor Logins.
+
+-  The Librarian Login details are written in top lines of the code.
 
 -  While adding input enter underscore in place of spaces.
 
