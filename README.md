@@ -7,7 +7,7 @@
 ## Note: 
 -  The code don't have a prebuilt database so you need to do Librarian Login first before and add books, students and professors details before accessing the Student and Professor Logins.
 
--- Runs best on Windows, have some bugs when running in Linux devices.
+-  Runs best on Windows, have some bugs when running in Linux devices.
 
 -  The Librarian Login details are written in top lines of the code.
 
